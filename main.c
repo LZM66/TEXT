@@ -61,3 +61,8 @@ int main(void)
 /*
 
 */
+<<<<<<<<< Temporary merge branch 1
+>>>>>>>>> Temporary merge branch 2
+=========
+
+>>>>>>>>> Temporary merge branch 2
